@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script downloads the symfony demo and installs the data for the demo
+# then starts the symfony server on 127.0.0.1
+
 SYMFONYBIN=/usr/bin/symfony
 CONTNAME=docker-symfony-get-started_php-fpm_1
 
