@@ -10,6 +10,8 @@ And from their github: https://github.com/symfony/demo
 
 And useful link info here: https://www.thisprogrammingthing.com/2018/Using-MySQL-With-the-Symfony-Demo-Application/
 
+Also thanks to: https://awesomeopensource.com/project/msgphp/symfony-demo-app
+
 ## Installation/Startup
 To bring the whole environment online, just run
 ```docker-compose up``` 
